@@ -53,7 +53,6 @@ Light and dark themes throughout. Locale-resilient (works on a Turkish Windows, 
 |---|---|
 | ![Security](assets/security.png) | ![History](assets/history.png) |
 
-<div align="center"><img src="assets/settings.png" width="460" alt="Settings" /></div>
 
 ## Run from source
 
