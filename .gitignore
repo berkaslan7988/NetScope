@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+
+# App data (created at runtime under the user's home, but ignore if local)
+*.db
+.netscope/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

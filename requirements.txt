@@ -1,0 +1,11 @@
+# Phase 0 (runs anywhere)
+rich>=13.0
+
+# Phase 1+ (the real desktop UI — install on your Windows machine)
+PySide6>=6.6
+
+# Dev
+pytest>=8.0
+
+# Phase 3 (optional: instant bandwidth readout; falls back to netstat/proc if absent)
+psutil>=5.9
